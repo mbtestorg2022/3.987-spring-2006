@@ -29,39 +29,289 @@ _N.B._ attendance at lectures and participation in the discussions will be consi
 Overall Weight of Assignments
 -----------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Reading Response - Waal and Mitani _et al_ Papers (3 Pages) | 6% |
-| Osteology Quiz | 5% |
-| Early Hominid Variation Discussion | 12% |
-| Isaac / Lovejoy / Bingham Reading Discussion (4-5 Pages) | 11% |
-| First Midterm Examination | 22% |
-| Shipman _et al_ Reading - Logic Evaluation - 1 Page Outline | 4% |
-| Binford - Mousterian Critique (4-5 Pages) | 11% |
-| Reading Response - Diamond / Molleson Papers (3 Pages) | 6% |
-| Second Midterm Examination (Exam Period) | 23% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Response - Waal and Mitani _et al_ Papers (3 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Osteology Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Early Hominid Variation Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Isaac / Lovejoy / Bingham Reading Discussion (4-5 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+11%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Midterm Examination
+{{< tdclose >}}
+{{< tdopen >}}
+22%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shipman _et al_ Reading - Logic Evaluation - 1 Page Outline
+{{< tdclose >}}
+{{< tdopen >}}
+4%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Binford - Mousterian Critique (4-5 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+11%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Response - Diamond / Molleson Papers (3 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Midterm Examination (Exam Period)
+{{< tdclose >}}
+{{< tdopen >}}
+23%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1-2 | Introduction: The Search for Human Ancestors, Approaches to the Study of Human Evolution and an Introduction to Human Osteology |
-| 3-4 | Evolutionary Processes and Time Scales |
-| 5 | Modern Primates and Their Relevance to Understanding Human Origins |
-| 6 | Tertiary Higher Primates: Our Pre-Hominid Predecessors |
-| 7-8 | Earliest Hominids: The Australopithecines and Affines |
-| 9 | Early Hominids - Variations and Taxonomy - Presentations |
-| 10 | Hominid / Human Origins: Hypotheses and Speculation |
-| 11 | Early _Homo_: How Should _Homo_ Be Defined? |
-| 12-13 | The Archaeology of the Early Hominids I: Olduvai Gorge and Koobi Fora |
-| 14 | The Archaeology of the Early Hominids II: Interpreting Early Hominid Behavior and Current Research Directions |
-| 15 | Midterm Exam |
-| 16 | _Homo ergaster_ and _erectus_: Emerging Modern Morphology |
-| 17 | Slowly Emerging Modern Behaviors: Early Stone Age / Lower Palaeolithic Age |
-| 18 | _Homo heidelbergensis_ and _neanderthalensis_ or Early "Archaic" _H. sapiens_? |
-| 19-20 | "Archaics": Not Quite Us Physically, Not Quite Us Mentally |
-| 21 | Origin of Modern _Homo sapiens_: Morphology and Genetic Evidence |
-| 22-23 | Modern _Homo sapiens_ I: Cultural Diversity Becomes the Norm |
-| 24 | Modern _Homo sapiens_ II: To the Threshold of Civilization |
-| 25-26 | Modern Human Diversity: Distribution, Morphological Variation and "Races"
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Search for Human Ancestors, Approaches to the Study of Human Evolution and an Introduction to Human Osteology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Processes and Time Scales
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Primates and Their Relevance to Understanding Human Origins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Tertiary Higher Primates: Our Pre-Hominid Predecessors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+Earliest Hominids: The Australopithecines and Affines
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Early Hominids - Variations and Taxonomy - Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hominid / Human Origins: Hypotheses and Speculation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Early _Homo_: How Should _Homo_ Be Defined?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+The Archaeology of the Early Hominids I: Olduvai Gorge and Koobi Fora
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Archaeology of the Early Hominids II: Interpreting Early Hominid Behavior and Current Research Directions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Homo ergaster_ and _erectus_: Emerging Modern Morphology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly Emerging Modern Behaviors: Early Stone Age / Lower Palaeolithic Age
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Homo heidelbergensis_ and _neanderthalensis_ or Early "Archaic" _H. sapiens_?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+"Archaics": Not Quite Us Physically, Not Quite Us Mentally
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Origin of Modern _Homo sapiens_: Morphology and Genetic Evidence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-23
+{{< tdclose >}}
+{{< tdopen >}}
+Modern _Homo sapiens_ I: Cultural Diversity Becomes the Norm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Modern _Homo sapiens_ II: To the Threshold of Civilization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Human Diversity: Distribution, Morphological Variation and "Races"
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

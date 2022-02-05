@@ -55,24 +55,343 @@ Wong, K. "Who were the Neandertals?" _Scientific American_ 282, no. 4 (April 200
 
 Wood, B., and M. Collard. "The changing face of genus _Homo_." _Evolutionary Anthropology_ 8, no. 6 (1999): 195-207.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1-2 | Introduction: The Search for Human Ancestors, Approaches to the Study of Human Evolution and an Introduction to Human Osteology | Campbell, et al. Chapters 1 and 3. |
-| 3-4 | Evolutionary Processes and Time Scales | Campbell, et al. Chapters 2 and 5, pp. 132-37, appendix 2 |
-| 5 | Modern Primates and Their Relevance to Understanding Human Origins |  {{< br >}}{{< br >}} Campbell, et al. Chapter 4. {{< br >}}{{< br >}} Waal. 1995 {{< br >}}{{< br >}} Mitani et al. 2002. {{< br >}}{{< br >}}  |
-| 6 | Tertiary Higher Primates: Our Pre-Hominid Predecessors |  {{< br >}}{{< br >}} Campbell, et al. Chapter 5. {{< br >}}{{< br >}} Begun. 2003. {{< br >}}{{< br >}}  |
-| 7-8 | Earliest Hominids: The Australopithecines and Affines |  {{< br >}}{{< br >}} Campbell, et al. Chapters 6, 7, and 8. {{< br >}}{{< br >}} Aiello and Collard. 2001. {{< br >}}{{< br >}}  |
-| 9 | Early Hominids - Variations and Taxonomy - Presentations | &nbsp; |
-| 10 | Hominid / Human Origins: Hypotheses and Speculation |  {{< br >}}{{< br >}} Campbell, et al. Chapters 8 and 9. (esp. pp. 240-250.) {{< br >}}{{< br >}} Isaac. 1978. {{< br >}}{{< br >}} Lovejoy. 1993. {{< br >}}{{< br >}} Bingham. 2000. {{< br >}}{{< br >}}  |
-| 11 | Early _Homo_: How Should _Homo_ Be Defined? |  {{< br >}}{{< br >}} Campbell, et al. Chapter 8. {{< br >}}{{< br >}} Wood and Collard. 1999. {{< br >}}{{< br >}}  |
-| 12-13 | The Archaeology of the Early Hominids I: Olduvai Gorge and Koobi Fora |  {{< br >}}{{< br >}} Campbell, et al. Chapter 9. {{< br >}}{{< br >}} Bunn, et al. 1980. {{< br >}}{{< br >}}  |
-| 14 | The Archaeology of the Early Hominids II: Interpreting Early Hominid Behavior and Current Research Directions | Campbell, et al. Chapter 9. |
-| 15 | Midterm Exam | &nbsp; |
-| 16 | _Homo ergaster_ and _erectus_: Emerging Modern Morphology |  {{< br >}}{{< br >}} Campbell, et al. Chapter 10. {{< br >}}{{< br >}} Gabunia, et al. 2001. {{< br >}}{{< br >}}  |
-| 17 | Slowly Emerging Modern Behaviors: Early Stone Age / Lower Palaeolithic Age |  {{< br >}}{{< br >}} Campbell, et al. Chapters 11, 12, and 13. {{< br >}}{{< br >}} Ambrose. 2001. {{< br >}}{{< br >}} Shipman, et al. 1981. {{< br >}}{{< br >}}  |
-| 18 | _Homo heidelbergensis_ and _neanderthalensis_ or Early "Archaic" _H. sapiens_? |  {{< br >}}{{< br >}} Campbell, et al. Chapters 12 and 13. {{< br >}}{{< br >}} Rightmire. 1998. {{< br >}}{{< br >}}  |
-| 19-20 | "Archaics": Not Quite Us Physically, Not Quite Us Mentally |  {{< br >}}{{< br >}} Campbell, et al. Chapter 14. {{< br >}}{{< br >}} Fischman. 1992. {{< br >}}{{< br >}} Wong. 2000. {{< br >}}{{< br >}}  |
-| 21 | Origin of Modern _Homo sapiens_: Morphology and Genetic Evidence |  {{< br >}}{{< br >}} Campbell, et al. Chapter 15. {{< br >}}{{< br >}} White, et al. 2003. {{< br >}}{{< br >}} Lahr and Foley. 2004. {{< br >}}{{< br >}}  |
-| 22-23 | Modern _Homo sapiens_ I: Cultural Diversity Becomes the Norm | Campbell, et al. Chapter 16. |
-| 24 | Modern _Homo sapiens_ II: To the Threshold of Civilization |  {{< br >}}{{< br >}} Campbell, et al. Chapter 17. {{< br >}}{{< br >}} Diamond. 1987. {{< br >}}{{< br >}} Molleson. 1994. {{< br >}}{{< br >}}  |
-| 25-26 | Modern Human Diversity: Distribution, Morphological Variation and "Races" |  {{< br >}}{{< br >}} Campbell, et al. Chapter 17. {{< br >}}{{< br >}} Molnar. Chapter 6. {{< br >}}{{< br >}} Jablonski and Chaplin. 2002. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Search for Human Ancestors, Approaches to the Study of Human Evolution and an Introduction to Human Osteology
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, et al. Chapters 1 and 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Evolutionary Processes and Time Scales
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, et al. Chapters 2 and 5, pp. 132-37, appendix 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Primates and Their Relevance to Understanding Human Origins
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 4.
+
+Waal. 1995
+
+Mitani et al. 2002.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Tertiary Higher Primates: Our Pre-Hominid Predecessors
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 5.
+
+Begun. 2003.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+Earliest Hominids: The Australopithecines and Affines
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapters 6, 7, and 8.
+
+Aiello and Collard. 2001.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Early Hominids - Variations and Taxonomy - Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Hominid / Human Origins: Hypotheses and Speculation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapters 8 and 9. (esp. pp. 240-250.)
+
+Isaac. 1978.
+
+Lovejoy. 1993.
+
+Bingham. 2000.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Early _Homo_: How Should _Homo_ Be Defined?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 8.
+
+Wood and Collard. 1999.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+The Archaeology of the Early Hominids I: Olduvai Gorge and Koobi Fora
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 9.
+
+Bunn, et al. 1980.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Archaeology of the Early Hominids II: Interpreting Early Hominid Behavior and Current Research Directions
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, et al. Chapter 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Homo ergaster_ and _erectus_: Emerging Modern Morphology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 10.
+
+Gabunia, et al. 2001.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Slowly Emerging Modern Behaviors: Early Stone Age / Lower Palaeolithic Age
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapters 11, 12, and 13.
+
+Ambrose. 2001.
+
+Shipman, et al. 1981.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Homo heidelbergensis_ and _neanderthalensis_ or Early "Archaic" _H. sapiens_?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapters 12 and 13.
+
+Rightmire. 1998.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-20
+{{< tdclose >}}
+{{< tdopen >}}
+"Archaics": Not Quite Us Physically, Not Quite Us Mentally
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 14.
+
+Fischman. 1992.
+
+Wong. 2000.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Origin of Modern _Homo sapiens_: Morphology and Genetic Evidence
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 15.
+
+White, et al. 2003.
+
+Lahr and Foley. 2004.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-23
+{{< tdclose >}}
+{{< tdopen >}}
+Modern _Homo sapiens_ I: Cultural Diversity Becomes the Norm
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, et al. Chapter 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Modern _Homo sapiens_ II: To the Threshold of Civilization
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 17.
+
+Diamond. 1987.
+
+Molleson. 1994.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Modern Human Diversity: Distribution, Morphological Variation and "Races"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Campbell, et al. Chapter 17.
+
+Molnar. Chapter 6.
+
+Jablonski and Chaplin. 2002.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
