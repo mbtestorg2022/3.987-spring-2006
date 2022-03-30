@@ -4,6 +4,7 @@ description: This resource contains a vocabulary sheet with terms and concepts f
   the lectures, and a few problems and issues for consideration.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-987-human-origins-and-evolution-spring-2006/2d64e0164231fdb80e49ebe41dc0731d_lecture01_02.pdf
 file_type: application/pdf
+parent_uid: cc8aef1c-77c8-86be-9a6a-e17f7d7d1295
 resourcetype: Document
 title: lecture01_02.pdf
 uid: 2d64e016-4231-fdb8-0e49-ebe41dc0731d

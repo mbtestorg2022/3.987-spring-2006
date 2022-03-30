@@ -8,6 +8,7 @@ description: This resource contains a lecture handout on evidence for the Neande
   cannibalism, and evidence for the Neandertal genetic contribution to modern humans.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-987-human-origins-and-evolution-spring-2006/7a97a27ebe75c1310ac2b383d0acb970_handout19_20.pdf
 file_type: application/pdf
+parent_uid: cc8aef1c-77c8-86be-9a6a-e17f7d7d1295
 resourcetype: Document
 title: handout19_20.pdf
 uid: 7a97a27e-be75-c131-0ac2-b383d0acb970

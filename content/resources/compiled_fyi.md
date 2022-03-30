@@ -5,6 +5,7 @@ description: This resource contains a compiled list of emailed handouts and comm
   follow-up information on questions and points raised in specific lectures.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-987-human-origins-and-evolution-spring-2006/68d29690246ab64a986483c28bddf84d_compiled_fyi.pdf
 file_type: application/pdf
+parent_uid: cc8aef1c-77c8-86be-9a6a-e17f7d7d1295
 resourcetype: Document
 title: compiled_fyi.pdf
 uid: 68d29690-246a-b64a-9864-83c28bddf84d

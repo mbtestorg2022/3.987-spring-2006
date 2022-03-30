@@ -5,6 +5,7 @@ description: This resource contains a vocabulary sheet with terms and concepts f
   on skulls of Homo ergaster from Dmanisi.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-987-human-origins-and-evolution-spring-2006/c1676c24e33aef8dd3d1061cd4e26bd2_lecture16_17.pdf
 file_type: application/pdf
+parent_uid: cc8aef1c-77c8-86be-9a6a-e17f7d7d1295
 resourcetype: Document
 title: lecture16_17.pdf
 uid: c1676c24-e33a-ef8d-d3d1-061cd4e26bd2
